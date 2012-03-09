@@ -8,7 +8,7 @@
 			    (:h1 "Hello World")
 			    (:princ "Congratulations, you are running Lisp on Heroku!!!")
 			    :p
-			    ((:img :src "lisp-glossy.jpg"))
+			    ((:img :src "http://www.normal-null.de/img/lisp/glossy120.jpg"))
 			    )))))
 
 (publish-directory
